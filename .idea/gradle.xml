@@ -10,8 +10,8 @@
         <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="/run/media/iqbal/3C2C393D2C38F38C/iqbal/kuliah/semester 5/pak fah/projek/ToDoList" />
-            <option value="/run/media/iqbal/3C2C393D2C38F38C/iqbal/kuliah/semester 5/pak fah/projek/ToDoList/app" />
+            <option value="/run/media/iqbal/3C2C393D2C38F38C/iqbal/kuliah/semester 5/pak fah/projek/melu_buku" />
+            <option value="/run/media/iqbal/3C2C393D2C38F38C/iqbal/kuliah/semester 5/pak fah/projek/melu_buku/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

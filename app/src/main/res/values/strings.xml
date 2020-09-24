@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Just Do It!!!</string>
+    <string name="delete_option">Delete</string>
+    <string name="cheked_option">Cheked</string>
+    <string name="about_option">Cheked</string>
+    <string name="text_input_hint">Enter Your List Here</string>
+    <string name="add_button">Add</string>
+    <string name="todo_tag">Todo List</string>
+    <string name="cheked_tag">Cheked List</string>
+    <string name="chek_all_btn_description">Check All</string>
 </resources>
